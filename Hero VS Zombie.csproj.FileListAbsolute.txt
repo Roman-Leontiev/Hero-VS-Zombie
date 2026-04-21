@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\Hero VS Zombie\Hero VS Zombie\obj\Debug\net8.0\Hero VS Zombie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Hero VS Zombie\Hero VS Zombie\obj\Debug\net8.0\Hero VS Zombie.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Hero VS Zombie\Hero VS Zombie\obj\Debug\net8.0\Hero VS Zombie.AssemblyInfo.cs
+C:\Users\user\Desktop\Hero VS Zombie\Hero VS Zombie\obj\Debug\net8.0\Hero VS Zombie.csproj.CoreCompileInputs.cache
